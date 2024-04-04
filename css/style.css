@@ -84,7 +84,7 @@ p {
     color: #ffffff;
 }
 
-/* Changed "search-engine... "online-rep...", "social-media..." to "seo-online_rep-mktg" to condense css */ 
+/* Changed "search-engine optimization", "online-reputation-management", "social-media-marketing" to "seo-online_rep-mktg" to condense css */ 
 
 .seo-online_rep-mktg img {
     max-height: 200px;
@@ -94,7 +94,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 /* moved entire benefits group down to match order of index.html*/
 .benefits {
@@ -137,3 +136,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
